@@ -1,0 +1,18 @@
+div{
+    border: solid;
+    height: 200px;
+    width: 40%;
+}
+.box1{
+    position: absolute;
+    background-color: aqua;
+    margin-top: 10%;
+    margin-left: 20%;
+
+}
+.box2{
+    position: absolute;
+    background-color: aquamarine;
+    margin-top: 19%;
+    margin-left: 20%;
+}

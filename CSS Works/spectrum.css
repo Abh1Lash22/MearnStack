@@ -1,0 +1,48 @@
+div{
+    height: 100px;
+    width: 5%;
+}
+body{
+    background-color: black;
+    
+}
+h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+.set1 {
+    position: absolute;
+    background-color: aquamarine;
+    margin-top:5%;
+    margin-left: 34%;
+}
+.set2{
+    position: absolute;
+    background-color: rgb(61, 36, 151);
+    margin-top:5%;
+    margin-left: 40%;
+
+}
+.set3{
+    position: absolute;
+    background-color: rgb(16, 240, 83);
+    margin-top:5%;
+    margin-left: 46%;
+
+}
+.set4{
+    position: absolute;
+    background-color: rgb(240, 16, 65);
+    margin-top:5%;
+    margin-left: 52%;
+
+}
+.set5{
+    position: absolute;
+    background-color: rgb(100, 134, 44);
+    margin-top:5%;
+    margin-left: 58%;
+
+}

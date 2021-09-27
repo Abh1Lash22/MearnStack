@@ -1,0 +1,34 @@
+.Parent{
+    border:  1px solid black;
+    background-color: rgb(169, 224, 17);
+    width: 540px;
+    height: 400px;
+    display: flex;
+   
+}
+.col{
+    width: 50px;
+    height: 200px;
+    padding: 10px;
+}
+.col1{
+flex: 1;
+    background-color: rgb(233, 48, 88);
+    
+}
+.col2{
+    flex: 2;
+    background-color: rgb(19, 209, 76);
+
+}
+.col3{
+    flex: 2;
+    
+    background-color: rgb(154, 10, 238);
+    
+}
+.col4{
+    flex: 1;
+    background-color: rgb(211, 32, 151);
+
+}
